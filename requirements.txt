@@ -5,5 +5,4 @@ pdfplumber
 sentence-transformers
 faiss-cpu
 numpy
-openai
 pytest
