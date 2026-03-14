@@ -62,7 +62,7 @@ This project deliberately avoids generative language models.
 - Prevents hallucinated answers
 - Preserves original document wording
 - Avoids external API usage
-- Aligns with enterprise privacy requirements
+- Aligns with the enterprise privacy requirements
 - Easier to validate and audit
 
 In many real-world enterprise systems, retrieval reliability is preferred over generative responses.
